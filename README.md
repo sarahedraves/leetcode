@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sarahedraves/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarahedraves/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarahedraves/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sarahedraves/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sarahedraves/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sarahedraves/leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sarahedraves/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sarahedraves/leetcode/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/sarahedraves/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
