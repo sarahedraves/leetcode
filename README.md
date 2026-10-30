@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarahedraves/leetcode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/sarahedraves/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sarahedraves/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sarahedraves/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
